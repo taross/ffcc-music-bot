@@ -176,7 +176,7 @@ class ConfigDefaults:
     bound_channels = set()
     autojoin_channels = set()
 
-    default_volume = 0.15
+    default_volume = 0.05
     skips_required = 4
     skip_ratio_required = 0.5
     save_videos = True
